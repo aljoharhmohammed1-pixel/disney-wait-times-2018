@@ -1,7 +1,3 @@
-Live dashboard: https://aljoharhmohammed1-pixel.github.io/disney-wait-times-2018/
-
-The GitHub Pages version runs the Streamlit app in the browser using Stlite. The first visit may take longer while the required packages load.
-
 # Disney World Wait Times 2018
 
 **Student:** Aljoharh mohammed Alnjm
@@ -26,6 +22,11 @@ and saves `clean_data.csv`.
 
 ## Run the dashboard
 
+Live Streamlit dashboard: https://aljoharh-disney-wait-times-2018.streamlit.app/
+
+The GitHub Pages version runs the Streamlit app in the browser using Stlite.
+The first visit may take longer while the required packages load.
+
 Keep `app.py` and `clean_data.csv` in the same folder. Open a terminal in that folder:
 
 ```bash
@@ -44,3 +45,4 @@ Use the park, ride, season, and hour filters to explore the data.
 
 The data describes selected rides in 2018. Most actual wait values are missing.
 Comparisons are descriptive and do not establish causal relationships.
+
