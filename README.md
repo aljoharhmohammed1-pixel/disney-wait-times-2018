@@ -1,3 +1,7 @@
+Live dashboard: https://aljoharhmohammed1-pixel.github.io/disney-wait-times-2018/
+
+The GitHub Pages version runs the Streamlit app in the browser using Stlite. The first visit may take longer while the required packages load.
+
 # Disney World Wait Times 2018
 
 **Student:** Aljoharh mohammed Alnjm
